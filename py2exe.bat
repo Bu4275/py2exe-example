@@ -1,5 +1,5 @@
 @echo off
-echo ¶}©l½sÄ¶µ{¦¡
+echo é–‹å§‹ç·¨è­¯ç¨‹å¼
 cd /d C:\Users\Bubu\Desktop\py2exe
 python setup.py install
 python setup.py py2exe
