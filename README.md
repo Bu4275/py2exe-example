@@ -1,4 +1,5 @@
 1.安裝py2exe(自行下載安裝檔)後
+
 載點:
 http://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/
 
