@@ -1,8 +1,8 @@
-1.¦w¸Ëpy2exe(¦Û¦æ¤U¸ü¦w¸ËÀÉ)«á
+1.å®‰è£py2exe(è‡ªè¡Œä¸‹è¼‰å®‰è£æª”)å¾Œ
 http://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/
 
-2.±N±ý¥]¸Ëªº.pyÀÉ©ñ¤J¦¹¸ê®Æ§¨
+2.å°‡æ¬²åŒ…è£çš„.pyæª”æ”¾å…¥æ­¤è³‡æ–™å¤¾
 
-3.§ó§ï py2exe.bat ¤Î setup.py ÀÉ®×ªº¸ô®|¤ÎÀÉ¦W
+3.æ›´æ”¹ setup.py æª”æ¡ˆçš„è·¯å¾‘åŠæª”å
 
-4.°õ¦æpy2exe.bat §Y¥i¥]¸Ë§¹¦¨
+4.åŸ·è¡Œpy2exe.bat å³å¯åŒ…è£å®Œæˆ
